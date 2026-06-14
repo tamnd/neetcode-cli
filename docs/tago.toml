@@ -1,0 +1,10 @@
+title       = "nc"
+baseURL     = "https://neetcode-cli.tamnd.com/"
+description = "Browse NeetCode curated LeetCode problems"
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/neetcode-cli"
